@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,EACI,QAAQ,CACR,SACJ,CACA,MACI,cAAe,CACf,KAAK,CACL,MACJ","file":"style.ce28d73f.css","sourceRoot":"..","sourcesContent":["*{\n    margin:0;\n    padding:0;\n}\n#demo{\n    position: fixed;\n    top:0;\n    left:0;\n}"]}
